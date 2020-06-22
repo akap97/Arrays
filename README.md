@@ -12,3 +12,5 @@
 
 #### 5) SumOfNonOverlapping: Given an array of N elements, you are required to find the maximum sum of lengths of all non-overlapping subarrays with K as the maximum element in the subarray.
 
+#### 6) maxValueBitonic: Given an array of elements which is first increasing and then may be decreasing, find the maximum element in the array.
+
