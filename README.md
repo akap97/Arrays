@@ -14,3 +14,9 @@
 
 #### 6) maxValueBitonic: Given an array of elements which is first increasing and then may be decreasing, find the maximum element in the array.
 
+#### 7) EquilibriumIndex.java: Equilibrium index of an array is an index such that the sum of elements at lower indexes is equal to the sum of elements at higher indexes. Given an array, your task is to find the index of first Equilibrium point in the array.
+
+#### 8) PeakEle: Given an array A of N integers. The task is to find a peak element in it in O( log N ) . An array element is peak if it is not smaller than its neighbours. For corner elements, we need to consider only one neighbour.
+
+#### 9) CountingElements: Given two unsorted arrays arr1[] and arr2[]. They may contain duplicates. For each element in arr1[] count elements less than or equal to it in array arr2[].
+
