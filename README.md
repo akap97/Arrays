@@ -20,3 +20,5 @@
 
 #### 9) CountingElements: Given two unsorted arrays arr1[] and arr2[]. They may contain duplicates. For each element in arr1[] count elements less than or equal to it in array arr2[].
 
+#### 10) SmallestSumSubset: Given an array of integers (A[])  and a number x, find the smallest subarray with sum greater than the given value.
+
