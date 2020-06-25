@@ -26,3 +26,5 @@
 
 #### 12) SingleNumXOR: Given an array of positive integers where every element appears even times except for one. Find that number occuring odd number of times.
 
+##### 13) LargestSubSumZero: Given an array having both positive and negative integers. The task is to compute the length of the largest subarray with sum 0.
+
