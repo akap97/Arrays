@@ -22,3 +22,7 @@
 
 #### 10) SmallestSumSubset: Given an array of integers (A[])  and a number x, find the smallest subarray with sum greater than the given value.
 
+#### 11) pairSwap: Given two arrays of integers, write a program to check if a pair of values (one value from each array) exists such that swapping the elements of the pair will make the sum of two arrays equal.
+
+#### 12) SingleNumXOR: Given an array of positive integers where every element appears even times except for one. Find that number occuring odd number of times.
+
